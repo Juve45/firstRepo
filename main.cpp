@@ -5,8 +5,11 @@
 using namespace std;
  
 int main() {
- printf("AFS");
-printf("New File");
+  printf("AFS");
+  printf("New File");
  
-return 0;
+  for(int i=1;i<=n;i++)
+    printf("New File");
+ 
+  return 0;
 }
