@@ -10,6 +10,6 @@ int main() {
  
   for(int i=1;i<=n;i++)
     printf("New File");
- 
+ //IDK What to fdop here
   return 0;
 }
