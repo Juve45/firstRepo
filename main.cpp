@@ -6,7 +6,7 @@ using namespace std;
  
 int main() {
  printf("AFS");
-
+printf("New File");
  
 return 0;
 }
